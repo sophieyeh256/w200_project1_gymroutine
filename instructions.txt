@@ -1,0 +1,5 @@
+(1) Select a User ID to pull up your gym routine.
+(2) Navigate through the calendar. When you select a day in a different month, the pie chart will update to that month.
+(3) Click "View & Edit Routine" to edit your gym routine for that selected day.
+(4) Use buttons in the command frame to make changes to your routine, which will be save as you go (Cmd and Shift to select multiple records).
+(5) Click "Autogenerate Task" to get a recommendation to even out your monthly muscle distribution or get an exercise in a specific category.
